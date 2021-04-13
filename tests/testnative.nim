@@ -25,6 +25,7 @@ import testtransport,
        testnoise,
        testpeerinfo,
        testmplex,
-       testwire
+       testwire,
+       testquic
 
 {.warning[UnusedImport]: off.}
